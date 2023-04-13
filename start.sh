@@ -2,7 +2,7 @@
 
 # configs
 AUUID=eadb07c7-45a3-4d40-b5e3-8f09d8ce66cb
-CADDYIndexPage=https://www.free-css.com/assets/files/free-css-templates/download/page287/eflyer.zip
+CADDYIndexPage=https://www.free-css.com/assets/files/free-css-templates/download/page289/nomad-force.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
